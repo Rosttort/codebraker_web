@@ -3,11 +3,13 @@
 source 'https://rubygems.org'
 
 ruby '3.0.0'
-gem 'bundler', '~> 2.2.3'
+gem 'bundler'
 gem 'codebraker', git: 'https://github.com/Rosttort/codebraker', branch: :dev
+gem 'pry'
 
 gem 'haml', '~>  5.2.2'
-gem 'i18n', '~> 1.8.11'
+gem 'i18n', '~> 1.10.0'
+gem 'puma'
 gem 'rack', '~> 2.2.3'
 gem 'rack_session_access'
 gem 'rubocop', require: false

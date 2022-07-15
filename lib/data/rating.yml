@@ -1,0 +1,88 @@
+---
+:name: Rostislav
+:difficulty: :easy
+:attempts: 15
+:attempts_left: 9
+:hints: 2
+:hints_left: 0
+:started_at: !ruby/object:DateTime 2022-07-15 15:39:14.793489013 +03:00
+---
+:name: Rostislav
+:difficulty: :easy
+:attempts: 15
+:attempts_left: 15
+:hints: 2
+:hints_left: 0
+:started_at: !ruby/object:DateTime 2022-07-15 15:47:34.121733175 +03:00
+---
+:name: Hosea
+:difficulty: :hard
+:attempts: 5
+:attempts_left: 4
+:hints: 1
+:hints_left: 1
+:started_at: !ruby/object:DateTime 2022-07-15 16:11:29.806729102 +03:00
+---
+:name: Burma
+:difficulty: :medium
+:attempts: 10
+:attempts_left: 9
+:hints: 1
+:hints_left: 1
+:started_at: !ruby/object:DateTime 2022-07-15 17:30:15.948189722 +03:00
+---
+:name: Orval
+:difficulty: :medium
+:attempts: 10
+:attempts_left: 9
+:hints: 1
+:hints_left: 1
+:started_at: !ruby/object:DateTime 2022-07-15 17:35:26.963342110 +03:00
+---
+:name: Iris
+:difficulty: :medium
+:attempts: 10
+:attempts_left: 9
+:hints: 1
+:hints_left: 1
+:started_at: !ruby/object:DateTime 2022-07-15 17:37:48.410268812 +03:00
+---
+:name: Katelynn
+:difficulty: :easy
+:attempts: 15
+:attempts_left: 14
+:hints: 2
+:hints_left: 2
+:started_at: !ruby/object:DateTime 2022-07-15 17:37:55.542249764 +03:00
+---
+:name: Hyman
+:difficulty: :easy
+:attempts: 15
+:attempts_left: 14
+:hints: 2
+:hints_left: 2
+:started_at: !ruby/object:DateTime 2022-07-15 17:43:24.740713295 +03:00
+---
+:name: Jerry
+:difficulty: :medium
+:attempts: 10
+:attempts_left: 9
+:hints: 1
+:hints_left: 1
+:started_at: !ruby/object:DateTime 2022-07-15 17:46:29.597217878 +03:00
+---
+:name: Andres
+:difficulty: :medium
+:attempts: 10
+:attempts_left: 9
+:hints: 1
+:hints_left: 1
+:started_at: !ruby/object:DateTime 2022-07-15 17:46:59.503771327 +03:00
+---
+:name: Ron
+:difficulty: :easy
+:attempts: 15
+:attempts_left: 14
+:hints: 2
+:hints_left: 2
+:started_at: !ruby/object:DateTime 2022-07-15 17:48:42.763586447 +03:00
